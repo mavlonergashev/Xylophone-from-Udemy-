@@ -19,3 +19,13 @@ class ViewController: UIViewController {
 
 }
 
+//MARK: - Play sound func
+
+extension ViewController {
+    
+    func playSound() {
+        
+        
+    }
+    
+}
